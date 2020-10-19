@@ -1,3 +1,3 @@
 # regex-expo
 
-This is the sample version of regexjs, where all styles have and none js files have been removed
+This is the sample version of regexjs, where all styles have been removed, but all react/redux code is still viewable 
